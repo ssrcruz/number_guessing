@@ -20,7 +20,7 @@ while count < 6
   count += 1
 
   if count > 5 && user_won == false
-    puts "You have ran out of guesses! You lose."
+    puts "You have ran out of guesses! You lose!"
   end
 
   if array.include?(user_guess)
