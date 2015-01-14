@@ -1,4 +1,4 @@
-# Rubens number guessing game
+# Rubens Number Guessing Game
 
 
 ## Description
